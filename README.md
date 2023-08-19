@@ -1,10 +1,10 @@
-### Hi there 👋 , I’m Rajesh.
+### Hi there 👋 , I’m Rajesh Puramaneni.
 
 ## ABOUT ME 👨‍🎓
 - 🔭 I’m currently studying in **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫.
-- 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** .👨‍💻
-- 📫 How to reach me 😄 : **[Facebook -  @Naman Anand](https://www.facebook.com/profile.php?id=100008493543339) , [Instagram - @naman5a](https://www.instagram.com/naman5a/?hl=en) , [Linkedin - @Naman Anand](https://www.linkedin.com/in/naman-anand-74a9a1202/)**
-- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places .<br /> I have a girlfriend 👧.<br /> I love to watch WWE Raw and WWE Smackdown .
+- 🌱 I’m currently doing BTech in **[Electronics and Communication Engineering](https://www.iitg.ac.in/cse/)** .👨‍💻
+- 📫 How to reach me 😄 : **[Facebook -  @Rajesh Puramaneni](https://www.facebook.com/rajesh.puramaneni) , [Instagram - @rajesh127_](https://www.instagram.com/rajesh127_/) , [Linkedin - @Rajesh Puramaneni](https://www.linkedin.com/in/rajesh127/)**
+- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places . I Love watching Virat Kohli Batting .
                 </pre>
  <p align="center">
     <a href="https://github.com/Naman-72/github-readme-streak-stats">
@@ -15,16 +15,16 @@
 ## 📊 My Github Stats
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-72&hide_progress=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshPuramaneni127&hide_progress=true">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=naman-72&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=RajeshPuramaneni127&show_icons=true&theme=radical">
  <br/>
-<br/><img alt="Naman's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-72&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
+<br/><img alt="Rajesh's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=RajeshPuramaneni127&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
 
 <br/>
 <br/>
 ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=Naman-72">
+<img src="https://komarev.com/ghpvc/?username=RajeshPuramaneni127">
 <a href="https://github.com/Naman-72?tab=followers"><img src="https://img.shields.io/github/followers/Naman-72?label=Followers&style=social" alt="GitHub Badge"></a>
   
 ## Show some ❤️ by starring some of the repositories!
