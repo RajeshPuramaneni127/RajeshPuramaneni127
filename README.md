@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there 👋 , I’m Rajesh.
 
-<!--
-**RajeshPuramaneni127/RajeshPuramaneni127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT ME 👨‍🎓
+- 🔭 I’m currently studying in **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫.
+- 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** .👨‍💻
+- 📫 How to reach me 😄 : **[Facebook -  @Naman Anand](https://www.facebook.com/profile.php?id=100008493543339) , [Instagram - @naman5a](https://www.instagram.com/naman5a/?hl=en) , [Linkedin - @Naman Anand](https://www.linkedin.com/in/naman-anand-74a9a1202/)**
+- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places .<br /> I have a girlfriend 👧.<br /> I love to watch WWE Raw and WWE Smackdown .
+                </pre>
+ <p align="center">
+    <a href="https://github.com/Naman-72/github-readme-streak-stats">
+        <img title="Naman Stats" alt="Naman Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-72&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
+## 📊 My Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-72&hide_progress=true">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=naman-72&show_icons=true&theme=radical">
+ <br/>
+<br/><img alt="Naman's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-72&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
+
+<br/>
+<br/>
+❤ Views and Followers
+<img src="https://komarev.com/ghpvc/?username=Naman-72">
+<a href="https://github.com/Naman-72?tab=followers"><img src="https://img.shields.io/github/followers/Naman-72?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+## Show some ❤️ by starring some of the repositories!
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/naman-anand-74a9a1202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100008493543339"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://twitter.com/Naman_125"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/naman5a/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+ </p>
