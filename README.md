@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying in **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫.
 - 🌱 I’m currently doing BTech in **[Electronics and Communication Engineering](https://www.iitg.ac.in/eee/)** .👨‍💻
 - 📫 How to reach me 😄 : **[Facebook -  @Rajesh Puramaneni](https://www.facebook.com/rajesh.puramaneni) , [Instagram - @rajesh127_](https://www.instagram.com/rajesh127_/) , [Linkedin - @Rajesh Puramaneni](https://www.linkedin.com/in/rajesh127/)**
-- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places . I Love watching Virat Kohli Batting .
+- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places . I Love watching Virat Kohli Bat .
                 </pre>
  <p align="center">
     <a href="https://github.com/RajeshPuramaneni127/github-readme-streak-stats">
