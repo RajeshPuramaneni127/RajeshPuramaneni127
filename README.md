@@ -27,7 +27,6 @@
 <img src="https://komarev.com/ghpvc/?username=RajeshPuramaneni127">
 <a href="https://github.com/RajeshPuramaneni127?tab=followers"><img src="https://img.shields.io/github/followers/RajeshPuramaneni127?label=Followers&style=social" alt="GitHub Badge"></a>
   
-## Show some ❤️ by starring some of the repositories!
 
 ## Connect with me:
 <p align="left">
