@@ -7,7 +7,7 @@
 - 💬 Ask me about anything [here](https://github.com/RajeshPuramaneni127/RajeshPuramaneni127/issues)
 - :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
 - :mortar_board: Studying: <strong>Next.js | TypeScript</strong>.
-- :briefcase: I am currently looking for a job as Frontend Developer.
+- :briefcase: I am currently looking for a job as Software Development Engineer.
 - 📫 How to reach me 😄 :
   <a href="mailto:rajeshpuramaneni@gmail.com">
     <img src="https://img.shields.io/badge/-rajeshpuramaneni@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajeshpuramaneni@gmail.com" />
