@@ -21,7 +21,7 @@
   <a href="https://github.com/martins-rafael/?tab=follow">
     <img src="https://img.shields.io/github/followers/RajeshPuramaneni127?label=Follow&style=social" />
   </a>
-- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places . I Love watching Virat Kohli Bat .
+- ⚡ Fun fact: <pre> Keyboard Typing: Top speed in alphabet typing is ∼110WPM and average speed in alphabet typing is ∼92WPM.
                 </pre>
  <p align="center">
     <a href="https://github.com/RajeshPuramaneni127/github-readme-streak-stats">
