@@ -3,10 +3,9 @@
 ## ABOUT ME 👨‍🎓
 - 💼 Software Development Engineer at [Opstronomy](https://opstronomy.com/)
 - 🔭 B.Tech'2024 graduate from **[IIT Guwahati](https://www.iitg.ac.in/)** in the field of [Electronics and Communication Engineering](https://www.iitg.ac.in/eee/).
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
 - 💬 Ask me about anything [here](https://github.com/RajeshPuramaneni127/RajeshPuramaneni127/issues)
 - :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
-- :mortar_board: Studying: <strong>Next.js | TypeScript</strong>.
+- :mortar_board: Studying: <strong>Next.js</strong>.
 - :briefcase: I am currently looking for a job as Software Development Engineer.
 - 📫 How to reach me 😄 :
   <a href="mailto:rajeshpuramaneni@gmail.com">
